@@ -1,7 +1,7 @@
 # FunWithMath
 # Scratch
 # Javascript
-This is the first ever game developed by myself at the age of 13
+This is the first ever game developed by myself at the age of 13 for Dharmaraja College Junior team in slit codefest 2018
 This is a math game developed by me to improve mathematical skills of children
 It posses a web version and an exe version
 
